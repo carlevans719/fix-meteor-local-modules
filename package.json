@@ -1,6 +1,6 @@
 {
   "name": "fix-meteor-local-modules",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "fix-local-modules.js",
   "scripts": {
